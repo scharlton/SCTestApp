@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hd9582H/1MNDhaEwWSP8yvhxwjsKDGrUr2QgRgWijnIfz/Ufhip1pomNrGUam78Lf4koZymaizgKoehfuJOeZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\scharlton\\source\\repos\\SCTestApp\\SCTestApp\\SCTestApp.iOS\\SCTestApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter\\3.4.1\\microsoft.appcenter.3.4.1.nupkg.sha512",
+    "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter.analytics\\3.4.1\\microsoft.appcenter.analytics.3.4.1.nupkg.sha512",
+    "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter.crashes\\3.4.1\\microsoft.appcenter.crashes.3.4.1.nupkg.sha512",
+    "C:\\Users\\scharlton\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\scharlton\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
