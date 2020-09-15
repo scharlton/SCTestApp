@@ -34,6 +34,7 @@
         </StackLayout>
         <ScrollView Grid.Row="1">
             <StackLayout Orientation="Vertical" Padding="16,40,16,40" Spacing="10">
+               <Entry Placeholder="This is just a username field" PlaceholderColor="Olive" AutomationId="MyNewEntry" />
                 <Label FontSize="22">
                     <Label.FormattedText>
                         <FormattedString>
@@ -49,7 +50,7 @@
                     <Label.FormattedText>
                         <FormattedString>
                             <FormattedString.Spans>
-                                <Span Text="This is a test and This app is written in C# and native APIs using the" />
+                                <Span Text="C# and native APIs using the" />
                                 <Span Text=" " />
                                 <Span Text="Xamarin Platform" FontAttributes="Bold" />
                                 <Span Text="." />

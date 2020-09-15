@@ -720,11 +720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scharlton\\source\\repos\\SCTestApp\\SCTestApp\\SCTestApp\\SCTestApp.csproj",
+      "projectUniqueName": "C:\\Users\\scharlton\\Git\\SCTestApp\\SCTestApp\\SCTestApp\\SCTestApp.csproj",
       "projectName": "SCTestApp",
-      "projectPath": "C:\\Users\\scharlton\\source\\repos\\SCTestApp\\SCTestApp\\SCTestApp\\SCTestApp.csproj",
+      "projectPath": "C:\\Users\\scharlton\\Git\\SCTestApp\\SCTestApp\\SCTestApp\\SCTestApp.csproj",
       "packagesPath": "C:\\Users\\scharlton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scharlton\\source\\repos\\SCTestApp\\SCTestApp\\SCTestApp\\obj\\",
+      "outputPath": "C:\\Users\\scharlton\\Git\\SCTestApp\\SCTestApp\\SCTestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

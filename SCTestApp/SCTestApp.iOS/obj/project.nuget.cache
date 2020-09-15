@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hd9582H/1MNDhaEwWSP8yvhxwjsKDGrUr2QgRgWijnIfz/Ufhip1pomNrGUam78Lf4koZymaizgKoehfuJOeZQ==",
+  "dgSpecHash": "z8E7v5UO+cmPSOLqd3S9Sz252C/9RBzZHz+gKiyf2owdCQPMGE+BE4RYb3tNtwghgsjGZx3CJYqsIfbIoo8EyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\scharlton\\source\\repos\\SCTestApp\\SCTestApp\\SCTestApp.iOS\\SCTestApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\scharlton\\Git\\SCTestApp\\SCTestApp\\SCTestApp.iOS\\SCTestApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter\\3.4.1\\microsoft.appcenter.3.4.1.nupkg.sha512",
     "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter.analytics\\3.4.1\\microsoft.appcenter.analytics.3.4.1.nupkg.sha512",

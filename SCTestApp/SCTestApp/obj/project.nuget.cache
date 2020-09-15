@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8IlNgKUKpOjzNznF6cxXdXwEgy8AKc2hrfQo3VvIx0d4nUETtKv/EhcWULWuRXNf/5jWEytt7u0difjvIkR6uQ==",
+  "dgSpecHash": "l/1ZF2dRfzNCYcxglLJFdip+pFBGhtxFVIA8ht9+nxb7NTAv39Bi0fqtKX6TH+SxIwf6SjQzy2/tOvVKcYzmJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\scharlton\\source\\repos\\SCTestApp\\SCTestApp\\SCTestApp\\SCTestApp.csproj",
+  "projectFilePath": "C:\\Users\\scharlton\\Git\\SCTestApp\\SCTestApp\\SCTestApp\\SCTestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter\\3.4.1\\microsoft.appcenter.3.4.1.nupkg.sha512",
     "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter.analytics\\3.4.1\\microsoft.appcenter.analytics.3.4.1.nupkg.sha512",
