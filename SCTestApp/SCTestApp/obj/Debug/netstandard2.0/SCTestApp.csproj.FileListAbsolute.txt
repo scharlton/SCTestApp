@@ -32,3 +32,5 @@ C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\SC
 C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\ref\SCTestApp.dll
 C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\SCTestApp.pdb
 C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\SCTestApp.csprojAssemblyReference.cache
+C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\SCTestApp.csproj.CoreCompileInputs.cache
+C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\XamlC.stamp
