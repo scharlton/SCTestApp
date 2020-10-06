@@ -25,7 +25,8 @@ namespace SCTestApp
 
         protected override void OnStart()
         {
-            Distribute.DisableAutomaticCheckForUpdate();
+            Distribute.CheckForUpdate();
+
             Distribute.ReleaseAvailable = OnReleaseAvailable;
             AppCenter.Start("android=92762260-34ff-4643-8126-ef36006ea1d8;" +
                   "uwp={5ab647aaa28c254291bb51e5134c3e39577d48c7};" +
