@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "l/1ZF2dRfzNCYcxglLJFdip+pFBGhtxFVIA8ht9+nxb7NTAv39Bi0fqtKX6TH+SxIwf6SjQzy2/tOvVKcYzmJA==",
+  "dgSpecHash": "NsmHm+lJUuPVVR66IjGLqfqvWGsdC/JN+8NSucLmmuCSkzvukjxABLuIEuBx+JKOGukGZjrh7Qj+id61t/u2Kg==",
   "success": true,
   "projectFilePath": "C:\\Users\\scharlton\\Git\\SCTestApp\\SCTestApp\\SCTestApp\\SCTestApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter\\3.4.1\\microsoft.appcenter.3.4.1.nupkg.sha512",
+    "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter\\3.4.3\\microsoft.appcenter.3.4.3.nupkg.sha512",
     "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter.analytics\\3.4.1\\microsoft.appcenter.analytics.3.4.1.nupkg.sha512",
     "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter.crashes\\3.4.1\\microsoft.appcenter.crashes.3.4.1.nupkg.sha512",
+    "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter.distribute\\3.4.3\\microsoft.appcenter.distribute.3.4.3.nupkg.sha512",
     "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\scharlton\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\scharlton\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

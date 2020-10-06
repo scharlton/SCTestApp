@@ -28,8 +28,6 @@ C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\Vi
 C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\SCTestApp.AssemblyInfoInputs.cache
 C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\SCTestApp.AssemblyInfo.cs
-C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\SCTestApp.csproj.CoreCompileInputs.cache
-C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\SCTestApp.dll
 C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\ref\SCTestApp.dll
 C:\Users\scharlton\Git\SCTestApp\SCTestApp\SCTestApp\obj\Debug\netstandard2.0\SCTestApp.pdb

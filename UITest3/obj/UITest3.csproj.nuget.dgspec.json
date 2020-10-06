@@ -40,6 +40,10 @@
       "frameworks": {
         "net461": {
           "dependencies": {
+            "Microsoft.AppCenter.Distribute": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[3.12.0, )"

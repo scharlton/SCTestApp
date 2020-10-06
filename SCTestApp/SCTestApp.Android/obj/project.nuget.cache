@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "v+XUQyFG1r9dhYA68Dky0Qdo9LFbI6z6oxRdyT7OTN+yWzQaIDs0v0uR7UD0nlzX1lmWA98j+jCEfmDV4VJMIQ==",
+  "dgSpecHash": "HsoKStUNYzsarWSoaZMa7dx7fJshxM2B1CotL3LSzMsnE98akoABnAm/owxqpev458w1xiPsFgZ/ce982s7lKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\scharlton\\Git\\SCTestApp\\SCTestApp\\SCTestApp.Android\\SCTestApp.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter\\3.4.1\\microsoft.appcenter.3.4.1.nupkg.sha512",
+    "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter\\3.4.3\\microsoft.appcenter.3.4.3.nupkg.sha512",
     "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter.analytics\\3.4.1\\microsoft.appcenter.analytics.3.4.1.nupkg.sha512",
     "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter.crashes\\3.4.1\\microsoft.appcenter.crashes.3.4.1.nupkg.sha512",
+    "C:\\Users\\scharlton\\.nuget\\packages\\microsoft.appcenter.distribute\\3.4.3\\microsoft.appcenter.distribute.3.4.3.nupkg.sha512",
     "C:\\Users\\scharlton\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
