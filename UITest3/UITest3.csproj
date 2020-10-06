@@ -28,6 +28,9 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json">
+      <Version>12.0.3</Version>
+    </PackageReference>
     <PackageReference Include="NUnit" Version="3.12.0" />
     <PackageReference Include="Xamarin.UITest" Version="3.0.5" />
     <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
@@ -35,6 +38,10 @@
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Base\AppManager.cs" />
+    <Compile Include="Base\BasePage.cs" />
+    <Compile Include="Base\BaseTestFixture.cs" />
+    <Compile Include="Base\PlatformQuery.cs" />
     <Compile Include="Tests.cs" />
     <Compile Include="AppInitializer.cs" />
   </ItemGroup>
