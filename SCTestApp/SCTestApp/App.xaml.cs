@@ -28,6 +28,8 @@ namespace SCTestApp
             Distribute.CheckForUpdate();
 
             Distribute.ReleaseAvailable = OnReleaseAvailable;
+            Distribute.UpdateTrack = UpdateTrack.Public;
+
             AppCenter.Start("android=92762260-34ff-4643-8126-ef36006ea1d8;" +
                   "uwp={5ab647aaa28c254291bb51e5134c3e39577d48c7};" +
                   "ios={c1b5f5338cce61a4921f94e94c9531e6c4d23f1f}", typeof(Distribute),
