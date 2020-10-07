@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>Zebra Technologies TC57</SelectedDevice>
     <DefaultDevice>Pixel_3_API_28</DefaultDevice>
+    <AndroidDesignerPreferredTheme>Theme.AppCompat.Light.NoActionBar</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>
